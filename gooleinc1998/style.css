@@ -1,0 +1,63 @@
+body {
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.contain {
+    width: 1328px;
+    height: 116.8px;
+    border: 0px;
+    text-align: center;
+    margin: 0 auto 0;
+    background-color: #EEEEEE;
+}
+
+.icon {
+    height: 113px;
+    text-align: center;
+}
+
+
+
+
+.search {
+    width: 1328px;
+    height: 53.7px;
+    padding: 1px;
+}
+
+.leftbar {
+    background-color: #7EE5DA;
+    vertical-align: text-top;
+    width: 488px;
+    height: 60px;
+    padding: 1px;
+    float: left;
+}
+
+.midbar {
+    width: 260px;
+    height: 60px;
+    padding: 1px;
+    background-color: #70CCC2;
+    font-size: smaller;
+    float: left;
+    margin-left: 1.5px;
+}
+
+.rightbar {
+    font-size:x-small;
+    text-align: center;
+    background-color: #62B3AA;
+    width: 569.9px;
+    height: 60px;
+    padding: 1px;
+    float: left;
+    margin-left: 1.5px;
+}
+
+.end {
+    font-size: x-small;
+    text-align: center;
+}
